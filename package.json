@@ -1,15 +1,23 @@
 {
   "name": "build-apis-boss-machine",
   "version": "1.0.0",
-  "description": "",
+  "description": "A comprehensive full-stack web application for managing an evil organization's operations, including minions, million-dollar ideas, meetings, and work assignments.",
   "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sikdarsadmanrahman/boss-machine.git"
+  },
+  "homepage": "https://github.com/sikdarsadmanrahman/boss-machine",
+  "bugs": {
+    "url": "https://github.com/sikdarsadmanrahman/boss-machine/issues"
+  },
   "scripts": {
     "test": "cross-env PORT=8000 mocha",
     "start-dev": "webpack -w & nodemon --watch app.js --watch main.js --watch server/",
     "start": "nodemon --watch app.js --watch main.js --watch server/",
     "postinstall": "webpack"
   },
-  "author": "Codecademy",
+  "author": "sikdarsadmanrahman",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.29.0",

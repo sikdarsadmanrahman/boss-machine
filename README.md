@@ -1,6 +1,12 @@
 # 🏢 Boss Machine API
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/sikdarsadmanrahman/boss-machine)
+[![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)](https://nodejs.org/)
+[![API](https://img.shields.io/badge/API-RESTful-orange)](https://github.com/sikdarsadmanrahman/boss-machine)
+
 A comprehensive full-stack web application for managing an evil organization's operations, including minions, million-dollar ideas, meetings, and work assignments.
+
+🔗 **[Live Demo](https://github.com/sikdarsadmanrahman/boss-machine)** | 📚 **[Documentation](#api-documentation)** | 🐛 **[Report Bug](https://github.com/sikdarsadmanrahman/boss-machine/issues)**
 
 ## 📋 Table of Contents
 
@@ -58,8 +64,8 @@ A comprehensive full-stack web application for managing an evil organization's o
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd boss-machine-start
+   git clone https://github.com/sikdarsadmanrahman/boss-machine.git
+   cd boss-machine
    ```
 
 2. **Install dependencies**:
@@ -274,12 +280,17 @@ This project was built following modern API development practices:
 
 ## 🤝 Contributing
 
-1. Fork the repository
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. [Fork the repository](https://github.com/sikdarsadmanrahman/boss-machine/fork)
 2. Create a feature branch: `git checkout -b feature-name`
 3. Make your changes and test thoroughly
 4. Commit your changes: `git commit -m 'Add feature-name'`
 5. Push to the branch: `git push origin feature-name`
-6. Submit a pull request
+6. [Submit a pull request](https://github.com/sikdarsadmanrahman/boss-machine/pulls)
+
+### 🐛 Found a Bug?
+[Report it here](https://github.com/sikdarsadmanrahman/boss-machine/issues/new) with detailed steps to reproduce.
 
 ## 📝 License
 
